@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/lidorbali/dymp/static/css/main.3b21836f.css",
+    "main.js": "/lidorbali/dymp/static/js/main.6fa86617.js",
+    "index.html": "/lidorbali/dymp/index.html",
+    "main.3b21836f.css.map": "/lidorbali/dymp/static/css/main.3b21836f.css.map",
+    "main.6fa86617.js.map": "/lidorbali/dymp/static/js/main.6fa86617.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3b21836f.css",
+    "static/js/main.6fa86617.js"
+  ]
+}
